@@ -1,0 +1,19 @@
+{ 
+	"k" : 2.5,
+	"albedo" : 0.12,
+	"a_bulk" : 0.0023,
+	"z_meas" : 2,
+	"emissivity": 0.95,
+	"rho_d": 2700,
+	"c_d" : 850,
+	"delta_t" : 1800,
+	"aws_file" : "./Data/AWS_debris_2021_60min.csv",
+	"SW_sky" : "SWin",
+	"SW_ground" : "SWout",
+	"LW_sky" : "LWin",
+	"LW_ground" : "LWout",
+	"T_air" : "T_air",
+	"Pressure" : "Pressure",
+	"RH_air" : "RH_air",
+	"u" : "Wspd"
+}
